@@ -6,8 +6,8 @@ Epitech project : We have to make a clone of Bomberman. We decided to make it mu
 * First install dependencies : apt-get install clang libsdl2-dev libgles2-mesa libgl1-mesa-glx
 * Compile : make
 * Add custom library path in env : . config.sh
-* Launch a bomberman server : ./bomberman server [players] [port]
-* Join the game : ./bomberman client [server_ip] [server_port] (The game don't start until all players are connected.)
+* Launch a bomberman server : ./bomberman server players port
+* Join the game : ./bomberman client server_ip server_port (The game don't start until all players are connected.)
 
 ## Feature
 * Multiplayer game
