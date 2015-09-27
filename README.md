@@ -15,7 +15,11 @@ Epitech project : We have to make a clone of Bomberman. We decided to make it mu
 * Auto-generated map with crate and wall
 
 ## Example
-* . config.sh
-* ./bomberman server 1 4242 (Start a server on port 4242)
-* ./bomberman client 127.0.0.1 4242 (On other terminal, don't forget to add custom library in path : . config.sh)
+
+``` . config.sh ```
+
+``` ./bomberman server 1 4242 (Start a server on port 4242) ```
+
+``` ./bomberman client 127.0.0.1 4242 (On other terminal, don't forget to add custom library in path : . config.sh)```
+
 ![alt text](https://github.com/Aschen/Bomberman/raw/master/screenshot.png "bomb_blast.so")
