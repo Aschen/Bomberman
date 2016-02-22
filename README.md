@@ -3,7 +3,7 @@
 Epitech project : We have to make a clone of Bomberman. We decided to make it multiplayer :)
 
 ## How to
-* First install dependencies : apt-get install clang libsdl2-dev libgles2-mesa libgl1-mesa-glx
+* First install dependencies : apt-get install clang libsdl2-dev libgles2-mesa
 * Compile : make
 * Add custom library path in env : . config.sh
 * Launch a bomberman server : ./bomberman server players port
